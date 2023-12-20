@@ -1,0 +1,59 @@
+
+
+
+Agenda:
+
+
+	1. Loops (nested)
+	2. Arrays(muldimen)
+	3. Collections
+
+	int a=100;
+	 a=60;
+	4. TestNG
+	5. Strings (String stringbuffer builder)
+	6. this and super
+	7. OOPS theory
+	8. Sync
+
+call by value and call by reference
+
+class A{
+
+int a=100;
+
+p s v hello(int abc)
+{
+abc+=600;
+
+}
+
+p s v m(S a[])
+{
+A aa=new A();
+syso(aa.a);
+aa.a=1000;
+syso(aa.a)
+int x=600;
+hello(x);
+syso(x);
+
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

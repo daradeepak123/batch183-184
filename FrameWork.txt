@@ -1,0 +1,19 @@
+
+
+
+Agenda:
+	1. Implemetnlowlevel framework.
+
+
+
+1. Maven project
+2. Sel,poi,testNG, log4J
+
+
+xyz@gmail.com
+Madhuri@2504
+
+System.getProperty("user.dir")+"/src/main/resources/config.properties"
+
+
+

@@ -1,0 +1,18 @@
+
+Agenda:
+
+	a. Collections 
+	b. Strings  
+		String StringBuffer StringBuilder
+
+		String s="StringLEarn";
+		String sa="StringLEarn";
+		String ss=new String("StringLEarn");
+		String sss=new String("StringLEarn");
+
+		StringBuilder sb=new StringBuilder("StringBulderLearn)";
+		StringBuffer sb=new StringBuffer("StringBulderLearn)";
+		StringBuilder sb=new StringBuilder("StringBulderLearn)";
+		StringBuffer sb=new StringBuffer("StringBulderLearn)";
+	c. TestNG
+	d. Interview Questions

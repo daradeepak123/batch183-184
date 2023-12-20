@@ -1,0 +1,10 @@
+
+
+
+Agenda:
+	1. FrameworkDesign
+
+		src/main/java and src/test/java (Code)
+		src/main/resources and src/test/resources (documents props excel xml )
+	pom.xml
+

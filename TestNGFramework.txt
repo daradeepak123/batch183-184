@@ -1,0 +1,88 @@
+
+
+
+Agenda:
+	1. TestNG
+
+		
+		@BSUite      	Opening the filesconnection with data sources
+		@BTest   	Opening browser Browser setup waits maxmize delete cache and cookies for the browser
+		@BClass         Launch URL Login
+		@BMethod	specfic module navigation
+		@Test		Actual test to be performed
+		@AMethod	CleanUp activity or navigate to home page
+		@AClass		Logout
+		@ATest		Close the browser
+		@ASUite		Save the documents and close the documents safe
+
+		@DataProvider
+		
+
+
+	2. FrameWork
+
+
+
+
+
+Both base classes and Test classes will have these annotations
+
+
+BaseClass
+	@BSuite
+		open excel sheet
+		open config files
+		log4J loading
+	@BeforeTEst
+		OpenBrowser
+		BrowserSerUP
+@BeforeClass  2
+		LoginMethos()
+@AfterClass  2
+		Logout activity
+	@AfterTest
+		CLoseBdowser
+	@AfterSuite
+		Save Documents and CLose documents
+
+
+
+TestClass1 extends baseclass
+	
+	@BeforeMethod    3
+		Navigate to Specfic module
+	@Test  1
+		actualtests
+	@Test 1
+		actualTests2
+	@Test 1
+		actualTest3
+	@AfterMethod   3
+		CLeanUp activity
+	
+TestClass2 extends baseclass
+	
+	@BeforeMethod    3
+		Navigate to Specfic module
+	@Test  1
+		actualtests
+	@Test 1
+		actualTests2
+	@Test 1
+		actualTest3
+	@AfterMethod   3
+		CLeanUp activity
+
+
+
+1. TestNG libs
+2. TestNG dependencies
+3. install TestNg for eclipse
+
+
+
+
+
+
+
+
