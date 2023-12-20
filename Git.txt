@@ -1,0 +1,35 @@
+
+
+Agenda
+
+
+	Agenda:
+		
+		1. Version Control system
+		2. Saving a file
+		3. Git
+		4. Repository
+		5. Code Repo
+		6. Branches
+		7. Commits
+		8. Local repository
+		9. Remote Repo
+		
+
+Instllations
+
+
+Git instllation
+
+
+
+
+
+
+
+
+
+
+git config --global user.name "hello hello1"
+
+git config --global user.email "MY_NAME@xyz.com"
